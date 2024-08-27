@@ -5,7 +5,7 @@
 ![ProfileView](https://komarev.com/ghpvc/?username=Farha-Dahman&label=Profile%20views&color=blueviolet)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Farha-Dahman&theme=onestar&rank=A,AA,AAA,S,SS,SSS,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
 
-👨‍💻 I’m Software Engineer <br />
+👩‍💻 I’m Software Engineer <br />
 📩 Reach me on: [**Email**](mailto://farhajehad@gmail.com) <br />
 <hr/>
 
