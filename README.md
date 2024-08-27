@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?size=23&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi,+I'm+Farha+Dahman.....">
+	<img src="https://readme-typing-svg.herokuapp.com?size=23&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi,+I'm+Farha+Dahman...">
 </div>
 
 ![ProfileView](https://komarev.com/ghpvc/?username=Farha-Dahman&label=Profile%20views&color=blueviolet)
